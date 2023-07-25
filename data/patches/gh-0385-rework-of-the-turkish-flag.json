@@ -1,0 +1,47 @@
+{
+	"id": 2159,
+	"name": "Rework of the turkish flag",
+	"description": "After a pixel fight between xQc, Papaplatte, Mizkif and Stegi, they all teamed up to rework the turkish flag into representing Spongebob characters and a banana.",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/stegi",
+			"https://www.twitch.tv/papaplatte",
+			"https://www.twitch.tv/xqc",
+			"https://www.twitch.tv/mizkif"
+		]
+	},
+	"path": {
+		"212-213": [
+			[
+				-367,
+				290
+			],
+			[
+				-367,
+				443
+			],
+			[
+				-166,
+				444
+			],
+			[
+				-167,
+				291
+			],
+			[
+				-367,
+				289
+			],
+			[
+				-367,
+				291
+			]
+		]
+	},
+	"center": {
+		"212-213": [
+			-270,
+			367
+		]
+	}
+}
