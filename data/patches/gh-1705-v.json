@@ -1,0 +1,39 @@
+{
+	"id": 5054,
+	"name": ":V",
+	"description": "A Pacman made by the community of Bananirou, Latesito and Rodny. Made during the early morning with the aim of conquering Turkey. Ultimately Failed.",
+	"links": {
+		"website": [
+			"https://es.wikipedia.org/wiki/Dos_puntos"
+		],
+		"subreddit": [
+			"TheVirginZone"
+		]
+	},
+	"path": {
+		"172-178, 77-79": [
+			[
+				-363,
+				292
+			],
+			[
+				-361,
+				442
+			],
+			[
+				-169,
+				442
+			],
+			[
+				-167,
+				293
+			]
+		]
+	},
+	"center": {
+		"172-178, 77-79": [
+			-265,
+			367
+		]
+	}
+}
